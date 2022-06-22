@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/help-me-app/static/css/main.f196f82c.css",
+    "main.js": "/help-me-app/static/js/main.ba64afa2.js",
+    "index.html": "/help-me-app/index.html",
+    "main.f196f82c.css.map": "/help-me-app/static/css/main.f196f82c.css.map",
+    "main.ba64afa2.js.map": "/help-me-app/static/js/main.ba64afa2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f196f82c.css",
+    "static/js/main.ba64afa2.js"
+  ]
+}
