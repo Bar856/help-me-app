@@ -1,0 +1,65 @@
+.App {
+  text-align: center;
+}
+input[type="text"],input[type="password"],input[type="number"]{
+  text-align: center;
+}
+h1{
+  font-size: 40px;
+  font-weight: bold;
+  color: rgb(0, 0, 0);
+}
+.margeTen{
+  margin: 10px;
+}
+.heightBtns{
+  height: 100px
+}
+body{
+  background-color: darkslategray;
+  font-weight: bold;
+  background-size: 100%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  color: darkblue;
+  padding: 20px;
+}
+.container{
+  background-color: rgb(255, 255, 255);
+  opacity: 90%;
+  padding: 20px;
+  border: 5px solid rgb(31, 31, 31);
+  border-radius: 20px;
+  margin-top: 10px;
+}
+.helpMeBtn{
+  width: 200px;
+  background-color: red;
+  color: white;
+  height: 200px;
+}
+button{
+  color: rgb(0, 0, 0);
+  border-radius: 40px;
+  /* margin: 10px; */
+  font-weight: bold;
+  background-color: white;
+  /* width: 150px; */
+}
+.borderSimple{
+  border: 1px solid rgb(31, 31, 31);
+  margin-top: 10px;
+}
+.alerts{
+  color: red;
+}
+#inputFix{
+  width: 170px;
+  margin-top: 10px;
+}
+#fixOnTable:hover,button:hover{
+  background-color: gray;
+}
+.redBg{
+  background-color: red;
+}
